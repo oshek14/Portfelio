@@ -28,9 +28,9 @@ Route::get('/gallery', function () {
     return view('gallery');
 });
 
-Route::get('/pricing', function () {
-    return view('pricing');
-});
+// Route::get('/pricing', function () {
+//     return view('pricing');
+// });
 
 Route::get('/about', function () {
     return view('about');
@@ -39,3 +39,5 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::post('/sendmessage','HomeController@sendUserMessage');

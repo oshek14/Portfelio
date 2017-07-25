@@ -30,7 +30,7 @@
 				<li><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
 				<li  class="active"><a href="{{ url('gallery') }}">Gallery</a></li>
-				<li><a href="{{ url('pricing') }}">Pricing</a></li>
+			
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li><a href="{{ url('contact') }}">Contact</a></li>			
 			</ul>
@@ -211,20 +211,6 @@
 ================================================== -->
 @include('layouts.footer')
 
-<!-- copyright area -->
-<div class="copyright">
-	<div class="grid">
-		<div class="row">
-			<div class="c6">
-				 Your Name &copy; 2015. All Rights Reserved.
-			</div>
-			<div class="c6">
-				<span class="right">
-				Premium Template by WowThemesNet </span>
-			</div>
-		</div>
-	</div>
-</div>
 <!-- JAVASCRIPTS
 ================================================== -->
 <!-- all -->

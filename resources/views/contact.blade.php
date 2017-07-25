@@ -29,7 +29,7 @@
 				<li><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
 				<li><a href="{{ url('gallery') }}">Gallery</a></li>
-				<li><a href="{{ url('pricing') }}">Pricing</a></li>
+				
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li class="active"><a href="{{ url('contact') }}">Contact</a></li>			
 			</ul>
@@ -46,7 +46,11 @@
 	<div class="grid">
 		<div class="row">
 			<div class="c8">
+			@if(Session::get('success'))
+				<h1 class="titlehead">{{Session::get('success')}}</h1>
+			@else
 				<h1 class="titlehead">Contact</h1>
+				@endif
 			</div>
 			<div class="c4">
 				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now +995 555 18 00 67</h1>
@@ -76,20 +80,21 @@
 							 Your message has been sent. Thank you! <a href="" class="close">x</a>
 						</div>
 					</div>
-					<form method="post" action="contact.php" id="contactform">
-						<div class="form">
+					<form class="form-horizontal" role="form"  id="contactform" method="POST" action="{{ url('/sendmessage') }}">
+						{{ csrf_field() }}
 							<div class="c6 noleftmargin">
 								<label>Name</label>
 								<input type="text" name="name">
 							</div>
+						
 							<div class="c6 noleftmargin">
-								<label>E-mail address</label>
-								<input type="text" name="email">
+								<label>Mobile</label>
+								<input type="text" name="mobile">
 							</div>
-							<label>Message</label>
+							<label>What's Your Inquiry?</label>
 							<textarea name="comment" class="ctextarea" rows="9"></textarea>
 							<input type="submit" id="submit" class="button" style="font-size:12px;" value="SUBMIT">
-						</div>
+						
 					</form>
 				</div>
 			</div>
@@ -116,20 +121,7 @@
 ================================================== -->
 @include('layouts.footer')
 
-<!-- copyright area -->
-<div class="copyright">
-	<div class="grid">
-		<div class="row">
-			<div class="c6">
-				 Your Name &copy; 2015. All Rights Reserved.
-			</div>
-			<div class="c6">
-				<span class="right">
-				Premium Template by WowThemesNet </span>
-			</div>
-		</div>
-	</div>
-</div>
+
 <!-- JAVASCRIPTS
 ================================================== -->
 <!-- all -->

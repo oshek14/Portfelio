@@ -29,7 +29,7 @@
 				<li class="active"><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
 				<li><a href="{{ url('gallery') }}">Gallery</a></li>
-				<li><a href="{{ url('pricing') }}">Pricing</a></li>
+				
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li><a href="{{ url('contact') }}">Contact</a></li>			
 			</ul>
@@ -45,10 +45,10 @@
 	<div class="grid">
 		<div class="row">
 			<div class="c8">
-				<h1 class="titlehead">Portfolio Three</h1>
+				<h1 class="titlehead">A LITTLE PORTFOLIO</h1>
 			</div>
 			<div class="c4">
-				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now 1-318-107-432</h1>
+				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now +995 555 18 00 67</h1>
 			</div>
 		</div>
 	</div>
@@ -202,19 +202,7 @@
 @include('layouts.footer')
 
 <!-- copyright area -->
-<div class="copyright">
-	<div class="grid">
-		<div class="row">
-			<div class="c6">
-				 Your Name &copy; 2015. All Rights Reserved.
-			</div>
-			<div class="c6">
-				<span class="right">
-				Premium Template by WowThemesNet </span>
-			</div>
-		</div>
-	</div>
-</div>
+
 <!-- JAVASCRIPTS
 ================================================== -->
 <!-- all -->

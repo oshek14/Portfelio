@@ -15,7 +15,10 @@ label { font-size: 14px; color: #4d4d4d; cursor: pointer; display: block; font-w
 .row, .clearfix { zoom: 1 }
 /* --------------------------------------- GRID Layout ----------------------------------------- */
 * { box-sizing: border-box; -ms-box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
-body { margin: 0 auto }
+body { 
+	margin: 0 auto;
+
+ }
 .grid { margin: 0 auto; max-width: 1200px; width: 100%; }
 /* You can choose the grid 1200 or 1140 or 1024 or 960 as per your requirement */
 .g1140 { margin: 0 auto; max-width: 1140px; width: 100%; }

@@ -30,7 +30,7 @@
 				<li><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
 				<li><a href="{{ url('gallery') }}">Gallery</a></li>
-				<li><a href="{{ url('pricing') }}">Pricing</a></li>
+				
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li><a href="{{ url('contact') }}">Contact</a></li>			
 			</ul>
@@ -59,7 +59,7 @@
 		<div class="da-slide">
 			<h2>Why Us?</h2>
 			<p>
-				 We're new and We can give you what you are asking for a very cheap price ,That's why you have to give us a chance .Just Try Us And We Will Eearn your Trust
+				 We're new and We can give you what you are asking for a very cheap price ,That's why you have to give us a chance .Just Try Us And We Will Earn your Trust
 			</p>
 			<a href="#" class="da-link" style="width:192px;">Trust?</a>
 			<div class="da-img">
@@ -83,6 +83,14 @@
 		</nav>
 	</div>
 </div>
+<style>
+
+h4{
+	color:grey;
+	
+}
+
+</style>
 <!-- UNDER SLIDER - BLACK AREA
 ================================================== -->
 <div class="undersliderblack">
@@ -94,7 +102,7 @@
 					<div class="introboxinner">
 						<span class="homeicone">
 						<i class="icon-bolt"></i>
-						</span>
+						</span><h4>6 YEARS EXPERIENCE</h4>
 					</div>
 				</div>
 				<!--Box 2-->
@@ -102,7 +110,7 @@
 					<div class="introboxinner">
 						<span class="homeicone">
 						<i class="icon-cog"></i>
-						</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						</span><h4>PLEASANT TEAM</h4>
 					</div>
 				</div>
 				<!--Box 3-->
@@ -111,7 +119,7 @@
 						<span class="homeicone">
 						<i class="icon-lightbulb"></i>
 						</span>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						<h4>AVAILABLE 24/7</h4>
 					</div>
 				</div>
 			</div>
@@ -332,19 +340,7 @@
 @include('layouts.footer')
 
 <!-- copyright area -->
-<div class="copyright">
-	<div class="grid">
-		<div class="row">
-			<div class="c6">
-				 Your Name &copy; 2015. All Rights Reserved.
-			</div>
-			<div class="c6">
-				<span class="right">
-				Premium Template by WowThemesNet </span>
-			</div>
-		</div>
-	</div>
-</div>
+
 <!-- END CONTENT AREA -->
 <!-- JAVASCRIPTS
 ================================================== -->

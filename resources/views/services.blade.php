@@ -29,7 +29,7 @@
 				<li><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li  class="active"><a href="{{ url('services') }}">Services</a></li>
 				<li><a href="{{ url('gallery') }}">Gallery</a></li>
-				<li><a href="{{ url('pricing') }}">Pricing</a></li>
+				
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li><a href="{{ url('contact') }}">Contact</a></li>			
 			</ul>
@@ -60,12 +60,12 @@
 		
 		<div class="row">
 			<!-- MAIN ACTIVITY-->
-			<div class="c8">
+			<div class="c8" style="text-align: center;">
 				<h1 class="maintitle">
 				<span>WHAT WE OFFER AND USE TO MAKE YOUR PRODUCT SHINE</span>
 				</h1>
 				<p>
-					<span class="dropcap">J</span>CODE,WHICH MEANS US, IS A NEW TEAM WITH NEW IDEAS. WE OFFER YOU ALL KIND OF HELP THAT IS RELATED TO COMPUTER TECHNOLOGIES.GOT A QUESTION ABOUT ENGINEERING? WANNA BE HELPED TO BUILD SOFTWARE ON ARDUINO,OR MAYBE YOU WANT A DESKTOP SOFTWARE ,OR YOU JUST DECIDED THAT YOU NEED A BEAUTIFUL,STUNNING WEB-PAGE? WE ARE HERE TO HELP YOU. BELOW ARE TECHNOLOGIES WE USE TO MAKE YOUR PRODUCT SHINE:
+					<span class="dropcap">J</span>CODE,WHICH MEANS US, IS A NEW TEAM WITH NEW IDEAS. WE OFFER YOU ALL KIND OF HELP THAT IS RELATED TO COMPUTER TECHNOLOGIES.GOT A QUESTION ABOUT ENGINEERING? WANNA BE HELPED TO BUILD SOFTWARE ON ARDUINO,OR MAYBE YOU WANT A DESKTOP SOFTWARE ,OR YOU JUST DECIDED THAT YOU NEED A BEAUTIFUL,STUNNING WEB-PAGE? IF YOU DECIDE TO USE OUR SERVICE,CONTACT US VIA CHAT,MOBILE,SOCIAL NETWORK OR CONTACT FORM AND WE WILL TALK ABOUT PRICES. WE ARE HERE TO HELP YOU. BELOW ARE TECHNOLOGIES WE USE TO MAKE YOUR PRODUCT SHINE:
 				</p>
 				<ul class="icons">
 					<li><i class="icon-double-angle-right"></i>WEB :      ANGULAR,REACT,JAVASCRIPT,JQUERY,PHP,LARAVEL,C#</li>
@@ -76,7 +76,7 @@
 				</ul>
 			</div>
 			<!-- TESTIMONIALS-->
-			<div class="c4">
+		<!-- 	<div class="c4">
 				<h1 class="maintitle">
 				<span>Clients say</span>
 				</h1>
@@ -106,7 +106,7 @@
 						</div>
 					</div>
 				</div>
-			</div><!-- END TESTIMONIALS-->
+			</div><!-- END TESTIMONIALS--> -->
 		</div>
 		
 		
@@ -148,7 +148,7 @@
 			<!-- END SERVICES-->
 			
 			<!-- BEGIN WHY CHOOSE US-->
-			<div class="c4">
+			<!-- <div class="c4">
 				<h1 class="maintitle">
 				<span>Why choose us</span>
 				</h1>
@@ -166,7 +166,7 @@
 					<dt class="">In enim justo, rhoncus ut, imperdiet a, venenatis salica</dt>
 					<dd style="display: none;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</dd>
 				</dl>
-			</div>
+			</div> -->
 			<!-- END WHY CHOOSE US-->
 			
 		</div>
@@ -177,19 +177,7 @@
 @include('layouts.footer')
 
 <!-- copyright area -->
-<div class="copyright">
-	<div class="grid">
-		<div class="row">
-			<div class="c6">
-				 Your Name &copy; 2015. All Rights Reserved.
-			</div>
-			<div class="c6">
-				<span class="right">
-				Premium Template by WowThemesNet </span>
-			</div>
-		</div>
-	</div>
-</div>
+
 
 <!-- JAVASCRIPTS
 ================================================== -->
