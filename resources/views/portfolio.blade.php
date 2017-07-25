@@ -87,13 +87,13 @@
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
-									 via Salique
+									 via JCode
 								</p>
 								<i class="icon-link mosaiclink"></i>
 							</div>
 							</a>
 						</div>
-						<h1><a href="#">Dalya Cream</a></h1>
+						<h1><a href="#">Nordiccar</a></h1>
 						<p>
 							 porta acean pulvinar
 						</p>
@@ -110,13 +110,13 @@
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
-									 via Salique
+									 via JCode
 								</p>
 								<i class="icon-link mosaiclink"></i>
 							</div>
 							</a>
 						</div>
-						<h1><a href="#">Office Look</a></h1>
+						<h1><a href="#">Laser Combat</a></h1>
 						<p>
 							 porta acean pulvinar
 						</p>
@@ -133,13 +133,13 @@
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
-									 via Salique
+									 via JCode
 								</p>
 								<i class="icon-link mosaiclink"></i>
 							</div>
 							</a>
 						</div>
-						<h1><a href="#">Open Space</a></h1>
+						<h1><a href="#">Dublin Airport</a></h1>
 						<p>
 							 porta acean pulvinar
 						</p>
@@ -156,13 +156,13 @@
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
-									 via Salique
+									 via JCode
 								</p>
 								<i class="icon-link mosaiclink"></i>
 							</div>
 							</a>
 						</div>
-						<h1><a href="#">Stylish White</a></h1>
+						<h1><a href="#">Lovequad</a></h1>
 						<p>
 							 porta acean pulvinar
 						</p>
@@ -179,13 +179,13 @@
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
-									 via Salique
+									 via JCode
 								</p>
 								<i class="icon-link mosaiclink"></i>
 							</div>
 							</a>
 						</div>
-						<h1><a href="#">Classic Beauty</a></h1>
+						<h1><a href="#">Web-Nicki</a></h1>
 						<p>
 							 porta acean pulvinar
 						</p>

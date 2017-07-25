@@ -52,7 +52,7 @@
 			</p>
 			<a href="#" class="da-link" style="width:202px;">Ready?</a>
 			<div class="da-img">
-				<img src="http://placehold.it/238x420&text=Silhouette+here" alt="">
+				<img style="box-shadow: 5px 20px 35px black;" src="images/pic1.jpg" alt="">
 			</div>
 		</div>
 		<!--Slide 2-->
@@ -63,7 +63,7 @@
 			</p>
 			<a href="#" class="da-link" style="width:192px;">Trust?</a>
 			<div class="da-img">
-				<img src="http://placehold.it/238x420&text=Silhouette+here" alt="">
+				<img style="box-shadow: 5px 20px 35px black;" src="images/pic2.png" alt="">
 			</div>
 		</div>
 		<!--Slide 3-->
@@ -74,7 +74,7 @@
 			</p>
 			<a href="#" class="da-link" style="width:224px;">Quality</a>
 			<div class="da-img">
-				<img src="http://placehold.it/238x420" alt="">
+				<img style="box-shadow: 5px 20px 35px black;" src="images/pic3.jpg" alt="">
 			</div>
 		</div>
 		<nav class="da-arrows">
