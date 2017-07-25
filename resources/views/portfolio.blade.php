@@ -69,7 +69,6 @@
 						<li><a href="" data-filter="*" class="selected">Show All</a></li>
 						<li><a href="" data-filter=".cat1">Business</a></li>
 						<li><a href="" data-filter=".cat2">Light</a></li>
-						<li><a href="" data-filter=".cat3">Modern</a></li>
 					</ul>
 				</div>
 			</div>
@@ -78,13 +77,13 @@
 		<div class="row space-top">
 			<div id="content">
 				<!-- box 1 -->
-				<div class="boxthreecolumns cat2">
+				<div class="boxthreecolumns cat1">
 					<div class="boxcontainer">
 						<div class="mosaic-block cover">
 							<div class="mosaic-overlay">
-								<img src="http://placehold.it/378x190" alt="">
+								<img src="images/nordic.jpg" alt="">
 							</div>
-							<a href="singleproject.html" target="_blank" class="mosaic-backdrop blue">
+							<a href="https://www.nordiccar.com/" target="_blank" class="mosaic-backdrop blue">
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
@@ -105,9 +104,9 @@
 					<div class="boxcontainer">
 						<div class="mosaic-block cover">
 							<div class="mosaic-overlay">
-								<img src="http://placehold.it/378x190" alt="">
+								<img src="images/laser.jpg" alt="">
 							</div>
-							<a href="singleproject.html" target="_blank" class="mosaic-backdrop orange">
+							<a href="https://lasercombat.ge/" target="_blank" class="mosaic-backdrop orange">
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
@@ -124,13 +123,13 @@
 					</div>
 				</div>
 				<!-- box 3 -->
-				<div class="boxthreecolumns cat1 cat3">
+				<div class="boxthreecolumns cat1">
 					<div class="boxcontainer">
 						<div class="mosaic-block cover">
 							<div class="mosaic-overlay">
-								<img src="http://placehold.it/378x190" alt="">
+								<img src="images/dublin.jpg" alt="">
 							</div>
-							<a href="singleproject.html" target="_blank" class="mosaic-backdrop green">
+							<a href="https://www.dublinairporttaxis.com/" target="_blank" class="mosaic-backdrop green">
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
@@ -147,13 +146,13 @@
 					</div>
 				</div>
 				<!-- box 4 -->
-				<div class="boxthreecolumns cat2 cat3">
+				<div class="boxthreecolumns cat2">
 					<div class="boxcontainer">
 						<div class="mosaic-block cover">
 							<div class="mosaic-overlay">
-								<img src="http://placehold.it/378x190" alt="">
+								<img src="images/love.jpg" alt="">
 							</div>
-							<a href="singleproject.html" target="_blank" class="mosaic-backdrop orangered">
+							<a href="http://lovequad.com/" target="_blank" class="mosaic-backdrop orangered">
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
@@ -170,13 +169,13 @@
 					</div>
 				</div>
 				<!-- box 5 -->
-				<div class="boxthreecolumns cat2">
+				<div class="boxthreecolumns cat2 cat3">
 					<div class="boxcontainer">
 						<div class="mosaic-block cover">
 							<div class="mosaic-overlay">
-								<img src="http://placehold.it/378x190" alt="">
+								<img src="images/nick.jpg" alt="">
 							</div>
-							<a href="singleproject.html" target="_blank" class="mosaic-backdrop green">
+							<a href="http://web-nicki.com/" target="_blank" class="mosaic-backdrop green">
 							<div class="details">
 								<b>Innovative Art & Dalya brings you Quality Furniture</b>
 								<p>
@@ -193,28 +192,7 @@
 					</div>
 				</div>
 				<!-- box 6 -->
-				<div class="boxthreecolumns cat2 cat3">
-					<div class="boxcontainer">
-						<div class="mosaic-block cover">
-							<div class="mosaic-overlay">
-								<img src="http://placehold.it/378x190" alt="">
-							</div>
-							<a href="singleproject.html" target="_blank" class="mosaic-backdrop blue">
-							<div class="details">
-								<b>Innovative Art & Dalya brings you Quality Furniture</b>
-								<p>
-									 via Salique
-								</p>
-								<i class="icon-link mosaiclink"></i>
-							</div>
-							</a>
-						</div>
-						<h1><a href="#">Warm Home</a></h1>
-						<p>
-							 porta acean pulvinar
-						</p>
-					</div>
-				</div>
+			
 				<!-- box 7 etc -->
 			</div>
 		</div>
