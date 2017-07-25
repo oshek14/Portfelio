@@ -48,7 +48,7 @@
 				<h1 class="titlehead">Services</h1>
 			</div>
 			<div class="c4">
-				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now 1-318-107-432</h1>
+				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now +995 555 18 00 67</h1>
 			</div>
 		</div>
 	</div>
@@ -62,16 +62,17 @@
 			<!-- MAIN ACTIVITY-->
 			<div class="c8">
 				<h1 class="maintitle">
-				<span>Our main activity</span>
+				<span>WHAT WE OFFER AND USE TO MAKE YOUR PRODUCT SHINE</span>
 				</h1>
 				<p>
-					<span class="dropcap">D</span>unt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in anim id est laborum. Allamco laboris nisi ut aliquip ex ea commodo consequat. Aser velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in anim id est laborum. Malesuada tortor, nec scelerisque lorem mattis. Nunc et rutrum consetetur sadipscing elitr, sed diam nonumy at volutpat. Sed consectetur suscipit lorem nunc.adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum et rutrum.
+					<span class="dropcap">J</span>CODE,WHICH MEANS US, IS A NEW TEAM WITH NEW IDEAS. WE OFFER YOU ALL KIND OF HELP THAT IS RELATED TO COMPUTER TECHNOLOGIES.GOT A QUESTION ABOUT ENGINEERING? WANNA BE HELPED TO BUILD SOFTWARE ON ARDUINO,OR MAYBE YOU WANT A DESKTOP SOFTWARE ,OR YOU JUST DECIDED THAT YOU NEED A BEAUTIFUL,STUNNING WEB-PAGE? WE ARE HERE TO HELP YOU. BELOW ARE TECHNOLOGIES WE USE TO MAKE YOUR PRODUCT SHINE:
 				</p>
 				<ul class="icons">
-					<li><i class="icon-double-angle-right"></i> Lorem ipsum dolor sit amet, consectetur adipiscing maecenas sed justo varius velit imperdiet bibendum volensot.</li>
-					<li><i class="icon-double-angle-right"></i> Aliquam hendrerit lacus mattis orci fermentum mollis maecenas sed justo varius velit imperdiet bibendum ciaruns.</li>
-					<li><i class="icon-double-angle-right"></i> In et purus ut nunc elementum dapibus. Sov et purus maecenas sed justo varius velit imperdiet bibendum et rut.</li>
-					<li><i class="icon-double-angle-right"></i> Liquam hendrerit lacus mattis orci fermentum mollis maecenas sed justo varius velit imperdiet bibendum et rutru. </li>
+					<li><i class="icon-double-angle-right"></i>WEB :      ANGULAR,REACT,JAVASCRIPT,JQUERY,PHP,LARAVEL,C#</li>
+					<li><i class="icon-double-angle-right"></i>DESKTOP :  C#,JAVA,C++,C</li>
+					<li><i class="icon-double-angle-right"></i>HARDWARE : ARDUINO</li>
+					<li><i class="icon-double-angle-right"></i>ANDROID :  JAVA  </li>
+					<li><i class="icon-double-angle-right"></i>HOSTING PROVIDER :  DIGITALOCEAN VPS,GODADDY OR ANYTHING YOU ASK  </li>
 				</ul>
 			</div>
 			<!-- TESTIMONIALS-->
@@ -119,27 +120,28 @@
 				<div class="c4">
 					<h1 class="subtitles">
 					<span class="serviceicon"><i class="icon-pushpin rotate"></i></span><br/>
-					20+ HTML Pages </h1>
+					E-COMMERCE WEB-PAGES</h1>
 					<p>
-						 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit lacus mattis orci fermentum mollis iaculis purus lobortis. In et purus ut nunc elementum dapibus.
+						 WE LOVE TO WRITE EVERYTHING HAND BY HAND,BUT IF CLIENT'S WISHES ARE SOMEHOW SPECIFIC, WE CAN USE
+						  MAGENTO/WOOCOMERCE/WORDPRESS
 					</p>
 				</div>
 				<!-- service 2-->
 				<div class="c4">
 					<h1 class="subtitles">
 					<span class="serviceicon"><i class="icon-cog rotate"></i></span><br/>
-					Color Schemes</h1>
+					HARDWARE</h1>
 					<p>
-						 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit lacus mattis orci fermentum mollis iaculis purus lobortis. In et purus ut nunc elementum dapibus facilisis.
+						WE'VE BUILT AN AIRPLANE : FLYING,MOVING, IF THERE'S AN OBSTACLE IT CAN FIND A FREE WAY OUT. GOT SOMETHING ON YOUR MIND,LET US KNOW.
 					</p>
 				</div>
 				<!-- service 3-->
 				<div class="c4">
 					<h1 class="subtitles">
 					<span class="serviceicon"><i class="icon-heart rotate"></i></span><br/>
-					Fully Responsive</h1>
+					FASTEST AND LOWEST PRICE</h1>
 					<p>
-						 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit lacus mattis orci fermentum mollis iaculis purus lobortis. In et purus ut nunc elementum dapibus.
+						DOESN'T MATTER HOW COMPLEX YOUR IDEA SEEMS,IT WILL BE IN A LESS TIME THAN OTHERS TELL YOU
 					</p>
 				</div><!-- end service 3-->
 			</div>

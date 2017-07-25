@@ -49,7 +49,7 @@
 				<h1 class="titlehead">About Us</h1>
 			</div>
 			<div class="c4">
-				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now 1-318-107-432</h1>
+				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now +995 555 18 00 67</h1>
 			</div>
 		</div>
 	</div>
@@ -64,13 +64,9 @@
 				<span>OUR HISTORY</span>
 				</h1>
 				<p>
-					<span class="dropcap">S</span>unt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in anim id est laborum. Allamco laboris nisi ut aliquip ex ea commodo consequat. Aser velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in anim.
+					<span class="dropcap">J</span>CODE IS HERE. WE ARE A NEW FOCUSED TEAM THAT TAKES CARE OF YOUR INTERESTS.WHY NOW? WE JUST LEARNED HOW THIS SYSTEM WORKS AND HOW PROGRAMMING CHANGES OUR LIVES. WE LOVE WHAT WE DO AND WE WANT TO HELP YOU AND ALSO GET MOTIVATION FROM IT. WHY LOW PRICES? EVERYONE KNOWS WHEN YOU ARE NEW TO BUSINESS, TO CATCH CLIENTS YOU GOTTA GIVE THEM SOMETHING TO HOLD ON TO. WE ARE ALSO COMPUTER SCIENCE BACHELORS ! WHY NOT TRY TO CONTACT US?MAYBE WE GIVE YOU WHAT OTHERS CAN'T AND BOTH OF US ARE HAPPY AND SATISFIED WITH WHAT WE HAVE DONE
 				</p>
-				<ul class="icons">
-					<li><i class="icon-double-angle-right"></i> Lorem ipsum dolor sit amet, consectetur adipiscing maecenas sed justo varius velit imperdiet bibendum et rutrum.</li>
-					<li><i class="icon-double-angle-right"></i> Aliquam hendrerit lacus mattis orci fermentum mollis maecenas sed justo varius velit imperdiet bibendum et rutrum.</li>
-					<li><i class="icon-double-angle-right"></i> In et purus ut nunc elementum dapibus. Sov et purus maecenas sed justo varius velit imperdiet bibendum et rutrum.</li>
-				</ul>
+				
 			</div>
 			<div class="c4">
 				<h1 class="maintitle">
@@ -78,13 +74,13 @@
 				</h1>
 				<ul id="skill">
 					<li><span class="bar progressdefault" style="width:100%;"></span>
-					<h3>Webdesign 100%</h3>
+					<h3>QUALITY 100%</h3>
 					</li>
-					<li><span class="bar progressdefault" style="width:80%;"></span>
-					<h3>jQuery 80%</h3>
+					<li><span class="bar progressdefault" style="width:100%;"></span>
+					<h3>TRUST 100%</h3>
 					</li>
-					<li><span class="bar progressdefault" style="width:60%;"></span>
-					<h3>Wordpress 60%</h3>
+					<li><span class="bar progressdefault" style="width:100%;"></span>
+					<h3>LOW PRICE 100%</h3>
 					</li>
 				</ul>
 			</div>

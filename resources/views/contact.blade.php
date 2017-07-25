@@ -49,7 +49,7 @@
 				<h1 class="titlehead">Contact</h1>
 			</div>
 			<div class="c4">
-				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now 1-318-107-432</h1>
+				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Call Us Now +995 555 18 00 67</h1>
 			</div>
 		</div>
 	</div>
@@ -98,22 +98,16 @@
 				<span><i class="icon-map-marker"></i> Locations</span>
 				</h1>
 				<p>
-					<a class="link-2" href="more.html">The Company Name Inc.</a>
+					<a class="link-2">OUR ADDRESS</a>
 				</p>
 				<dl>
-					<dt>2536 Zamora Road, Missisipi, 74C</dt>
-					<dd><span>Telephone:</span>+1 348 271 9483</dd>
-					<dd><span>FAX:</span>+1 243 794 5734</dd>
-					<dd>E-mail: <a href="more.html">mail@yourweb.com</a></dd>
+					<dt>GEORGIA,TBILISI</dt>
+					<dd><span>Telephone:</span>+995 555 18 00 67</dd>
+					
+					<dd>E-mail: <a href="more.html">gioskofield@gmail.com</a></dd>
 				</dl>
 				<br/>
-				<dl>
-					<dt>9863 - 9867 Mill Road, Cambridge, MG09 99HT</dt>
-					<dt>Zamora Road, Missisipi, 74C</dt>
-					<dd><span>Telephone:</span>+1 348 271 9483</dd>
-					<dd><span>FAX:</span>+1 243 794 5734</dd>
-					<dd>E-mail: <a href="more.html">mail@yourweb.com</a></dd>
-				</dl>
+				
 			</div>
 		</div>
 </div><!-- end grid -->

@@ -46,33 +46,33 @@
 	<div id="da-slider" class="da-slider">
 		<!--Slide 1-->
 		<div class="da-slide">
-			<h2> Elegant Design </h2>
+			<h2> Came To The Right Place </h2>
 			<p>
-				With the right, great looking responsive website template, you will be able to attract visitors and increase your sales. This is an elegant theme designed for multi-purpose use.
+				We're The Fully Experienced Team That's always here To Help You Build Awesome,Shining WebPages,Android Applications,Desktop Softwares And All This Done Very Cheaply
 			</p>
-			<a href="#" class="da-link" style="width:202px;">Multi-Purpose</a>
+			<a href="#" class="da-link" style="width:202px;">Ready?</a>
 			<div class="da-img">
 				<img src="http://placehold.it/238x420&text=Silhouette+here" alt="">
 			</div>
 		</div>
 		<!--Slide 2-->
 		<div class="da-slide">
-			<h2>Responsive</h2>
+			<h2>Why Us?</h2>
 			<p>
-				 We produce comprehensive mapping of consumers' relationships with communications across bought, owned & earned media based on bespoke insight.
+				 We're new and We can give you what you are asking for a very cheap price ,That's why you have to give us a chance .Just Try Us And We Will Eearn your Trust
 			</p>
-			<a href="#" class="da-link" style="width:192px;">MEDIA DEVICES</a>
+			<a href="#" class="da-link" style="width:192px;">Trust?</a>
 			<div class="da-img">
 				<img src="http://placehold.it/238x420&text=Silhouette+here" alt="">
 			</div>
 		</div>
 		<!--Slide 3-->
 		<div class="da-slide">
-			<h2> Easy to modify </h2>
+			<h2> Quality </h2>
 			<p>
-				 We design, create and manage fully integrated social media platforms, online PR strategy and campaigns for our clients, ability to analyse, monitor and optimise brand presence.
+				 What we assess mostly is how satisfied our customers will be after having seen what We've done for them. That's why We do all that's necessary to get you stunned
 			</p>
-			<a href="#" class="da-link" style="width:224px;">fully supported</a>
+			<a href="#" class="da-link" style="width:224px;">Quality</a>
 			<div class="da-img">
 				<img src="http://placehold.it/238x420" alt="">
 			</div>
@@ -94,7 +94,7 @@
 					<div class="introboxinner">
 						<span class="homeicone">
 						<i class="icon-bolt"></i>
-						</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						</span>
 					</div>
 				</div>
 				<!--Box 2-->
@@ -127,17 +127,17 @@
 		<!--INTRO-->
 		<div class="c12">
 			<div class="royalcontent">
-				<h1 class="royalheader">WELCOME TO SALIQUE, MULTI-PURPOSE THEME</h1>
-				<h1 class="title" style="text-transform:none;">Html theme with awesome features, sliders, unlimited colors & much more!</h1>
+				<h1 class="royalheader">WELCOME TO JCODE, THE BEST NEW TEAM</h1>
+				<h1 class="title" style="text-transform:none;">OUR OFFERS ARE WORTH TO START THINKING</h1>
 			</div>
 		</div>
 		<!--Box 1-->
 		<div class="c4">
-			<h2 class="title hometitlebg"><i class="icon-qrcode smallrightmargin"></i> Responsive Theme</h2>
+			<h2 class="title hometitlebg"><i class="icon-qrcode smallrightmargin"></i>RESPONSIVE</h2>
 			<div class="noshadowbox">
-				<h5>DELIVERY</h5>
+				<h5>WEB DEVELOPMENT</h5>
 				<p>
-					 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit lacus mattis orci fermentum mollis iaculis purus lobortis. In et purus ut nunc elementum dapibus facilisis in quam.
+					Whatever Web-Page We Make, We always think of making it work on a mobile device. It Doesn't Matter How Complex Your Web Idea Could be,We will make sure it works on all devices ever.
 				</p>
 				<p class="bottomlink">
 					<a href="#" class="neutralbutton"><i class="icon-link"></i></a>
@@ -146,11 +146,11 @@
 		</div>
 		<!--Box 2-->
 		<div class="c4">
-			<h2 class="title hometitlebg"><i class="icon-cog smallrightmargin"></i> Unlimited Colors</h2>
+			<h2 class="title hometitlebg"><i class="icon-cog smallrightmargin"></i>INFINITE SUPPORT</h2>
 			<div class="noshadowbox">
-				<h5>QUALITY</h5>
+				<h5>ANDROID APPLICATION</h5>
 				<p>
-					 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit lacus mattis orci fermentum mollis iaculis purus lobortis. In et purus ut nunc elementum dapibus facilisis in quam.
+					As For Now, We don't take difficult and complex orders,because our main area is focused on web and desktop. If you think your android idea is smart,easy and is worth making, we are here to give you a hand.
 				</p>
 				<p class="bottomlink">
 					<a href="#" class="neutralbutton"><i class="icon-link"></i></a>
@@ -159,11 +159,11 @@
 		</div>
 		<!--Box 3-->
 		<div class="c4">
-			<h2 class="title hometitlebg"><i class="icon-user" style="margin-right:10px;"></i> MultiPurpose Use</h2>
+			<h2 class="title hometitlebg"><i class="icon-user" style="margin-right:10px;"></i>24/7 AVAILABLE</h2>
 			<div class="noshadowbox">
-				<h5>PRICING</h5>
+				<h5>DESKTOP SOFTWARES</h5>
 				<p>
-					 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit lacus mattis orci fermentum mollis iaculis purus lobortis. In et purus ut nunc elementum dapibus facilisis in quam.
+					 Desktop Softwares play a huge role in our society.Sometimes only web-sites can't give us what we aim for. We can help you get you anything you have ever imagined of doing.
 				</p>
 				<p class="bottomlink">
 					<a href="#" class="neutralbutton"><i class="icon-link"></i></a>
