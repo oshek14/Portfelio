@@ -28,7 +28,7 @@
 				<li><a href="{{ url('/') }}"><i class="icon-home homeicon"></i><span class="showmobile">Home</span></a></li>
 				<li><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
-				<li><a href="{{ url('gallery') }}">Gallery</a></li>
+				
 				
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li class="active"><a href="{{ url('contact') }}">Contact</a></li>			

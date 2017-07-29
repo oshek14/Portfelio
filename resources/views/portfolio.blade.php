@@ -28,7 +28,7 @@
 				<li><a href="{{ url('/') }}"><i class="icon-home homeicon"></i><span class="showmobile">Home</span></a></li>
 				<li class="active"><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
-				<li><a href="{{ url('gallery') }}">Gallery</a></li>
+				
 				
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li><a href="{{ url('contact') }}">Contact</a></li>			
@@ -85,7 +85,7 @@
 							</div>
 							<a href="https://www.nordiccar.com/" target="_blank" class="mosaic-backdrop blue">
 							<div class="details">
-								<b>Innovative Art & Dalya brings you Quality Furniture</b>
+								<b></b>
 								<p>
 									 via JCode
 								</p>
@@ -94,9 +94,7 @@
 							</a>
 						</div>
 						<h1><a href="#">Nordiccar</a></h1>
-						<p>
-							 porta acean pulvinar
-						</p>
+						
 					</div>
 				</div>
 				<!-- box 2 -->
@@ -108,7 +106,7 @@
 							</div>
 							<a href="https://lasercombat.ge/" target="_blank" class="mosaic-backdrop orange">
 							<div class="details">
-								<b>Innovative Art & Dalya brings you Quality Furniture</b>
+								<b></b>
 								<p>
 									 via JCode
 								</p>
@@ -117,9 +115,7 @@
 							</a>
 						</div>
 						<h1><a href="#">Laser Combat</a></h1>
-						<p>
-							 porta acean pulvinar
-						</p>
+						
 					</div>
 				</div>
 				<!-- box 3 -->
@@ -131,7 +127,7 @@
 							</div>
 							<a href="https://www.dublinairporttaxis.com/" target="_blank" class="mosaic-backdrop green">
 							<div class="details">
-								<b>Innovative Art & Dalya brings you Quality Furniture</b>
+								<b></b>
 								<p>
 									 via JCode
 								</p>
@@ -140,9 +136,7 @@
 							</a>
 						</div>
 						<h1><a href="#">Dublin Airport</a></h1>
-						<p>
-							 porta acean pulvinar
-						</p>
+						
 					</div>
 				</div>
 				<!-- box 4 -->
@@ -154,7 +148,7 @@
 							</div>
 							<a href="http://lovequad.com/" target="_blank" class="mosaic-backdrop orangered">
 							<div class="details">
-								<b>Innovative Art & Dalya brings you Quality Furniture</b>
+								<b></b>
 								<p>
 									 via JCode
 								</p>
@@ -163,9 +157,7 @@
 							</a>
 						</div>
 						<h1><a href="#">Lovequad</a></h1>
-						<p>
-							 porta acean pulvinar
-						</p>
+						
 					</div>
 				</div>
 				<!-- box 5 -->
@@ -177,7 +169,7 @@
 							</div>
 							<a href="http://web-nicki.com/" target="_blank" class="mosaic-backdrop green">
 							<div class="details">
-								<b>Innovative Art & Dalya brings you Quality Furniture</b>
+								<b></b>
 								<p>
 									 via JCode
 								</p>
@@ -186,12 +178,31 @@
 							</a>
 						</div>
 						<h1><a href="#">Web-Nicki</a></h1>
-						<p>
-							 porta acean pulvinar
-						</p>
+						
 					</div>
 				</div>
 				<!-- box 6 -->
+
+				<div class="boxthreecolumns cat2 cat3">
+					<div class="boxcontainer">
+						<div class="mosaic-block cover">
+							<div class="mosaic-overlay">
+								<img src="images/winner.jpg" alt="">
+							</div>
+							<a href="http://winnertipshere.com/" target="_blank" class="mosaic-backdrop blue">
+							<div class="details">
+								<b></b>
+								<p>
+									 via JCode
+								</p>
+								<i class="icon-link mosaiclink"></i>
+							</div>
+							</a>
+						</div>
+						<h1><a href="#">Winner Tips</a></h1>
+						
+					</div>
+				</div>
 			
 				<!-- box 7 etc -->
 			</div>

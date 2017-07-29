@@ -29,7 +29,7 @@
 				<li class="active"><a href="{{ url('/') }}"><i class="icon-home homeicon"></i><span class="showmobile">Home</span></a></li>
 				<li><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
-				<li><a href="{{ url('gallery') }}">Gallery</a></li>
+				
 				
 				<li><a href="{{ url('about') }}">About</a></li>
 				<li><a href="{{ url('contact') }}">Contact</a></li>			
@@ -179,157 +179,19 @@ h4{
 			</div>
 		</div>
 	</div>
-	<!-- SHOWCASE
-	================================================== -->
-	<div class="row space-top">
-		<div class="c12 space-top">
-			<h1 class="maintitle ">
-			<span>SHOWCASE</span>
-			</h1>
-		</div>
-	</div>
-	<div class="row space-bot">
-		<div class="c12">
-			<div class="list_carousel">
-				<div class="carousel_nav">
-					<a class="prev" id="car_prev" href="#"><span>prev</span></a>
-					<a class="next" id="car_next" href="#"><span>next</span></a>
-				</div>
-				<div class="clearfix">
-				</div>
-				<ul id="recent-projects">
-					<!--featured-projects 1-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">Dolor sit amet</a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-					<!--featured-projects 2-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">Nunc elementum </a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-					<!--featured-projects 3-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">Sit amet</a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-					<!--featured-projects 4-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">Dapibus facilisis</a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-					<!--featured-projects 5-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">Nunc elementum</a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-					<!--featured-projects 6-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">Dolor sit amet</a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-					<!--featured-projects 7-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">HTML Theme</a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-					<!--featured-projects 8-->
-					<li>
-					<div class="featured-projects">
-						<div class="featured-projects-image">
-							<a href="#"><img src="http://placehold.it/275x180" class="imgOpa" alt=""></a>
-						</div>
-						<div class="featured-projects-content">
-							<h1><a href="#">Salique bedroom</a></h1>
-							<p>
-								 porta acean pulvinar
-							</p>
-						</div>
-					</div>
-					</li>
-				</ul>
-				<div class="clearfix">
-				</div>
-			</div>
-		</div>
-	</div>
+	
 	<!-- CALL TO ACTION 
 	================================================== -->
+	<br><br>
 	<div class="row space-bot">
 		<div class="c12">
 			<div class="wrapaction">
 				<div class="c9">
-					<h1 class="subtitles">Salique is incredibly awesome, with a refreshingly clean design</h1>
-					 We produce comprehensive mapping of consumers' relationships with communications across bought, owned & earned media based on bespoke insight. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit lacus mattis orci fermentum mollis iaculis.
+
+					<h1 class="subtitles">JCode is incredibly awesome, with a refreshingly clean design</h1>
+					 We produce comprehensive mapping of consumers' relationships with communications across bought, owned & earned media based on bespoke insight.
 				</div>
-				<div class="c3 text-center" style="margin-top:40px;">
-					<div class="actionbutton">
-						<i class=" icon-download-alt"></i> DOWNLOAD NOW
-					</div>
-				</div>
+				
 			</div>
 		</div>
 	</div>

@@ -28,7 +28,7 @@
 				<li><a href="{{ url('/') }}"><i class="icon-home homeicon"></i><span class="showmobile">Home</span></a></li>
 				<li><a href="{{ url('portfolio') }}">Portfolio</a></li>
 				<li><a href="{{ url('services') }}">Services</a></li>
-				<li><a href="{{ url('gallery') }}">Gallery</a></li>
+				
 				
 				<li class="active"><a href="{{ url('about') }}">About</a></li>
 				<li><a href="{{ url('contact') }}">Contact</a></li>			
@@ -87,135 +87,7 @@
 		</div>
 		<!-- OUR TEAM
 		================================================== -->
-		<div class="row space-top space-bot">
-			<div class="c12">
-				<h1 class="maintitle text-center">
-				<span>Meet the Team</span>
-				</h1>
-			</div>
-			<!-- box 1 -->
-			<div class="c3" style="text-align:center;">
-				<img src="http://placehold.it/270x180" class="imgOpa teamimage" alt="">
-				<div class="teamdescription">
-					<h1>John Doe</h1>
-					<span class="hirefor">Product Designer</span>
-				</div>
-			</div>
-			<!-- box 2 -->
-			<div class="c3">
-				<img src="http://placehold.it/270x180" class="imgOpa teamimage" alt="">
-				<div class="teamdescription">
-					<h1>Brian V. Roberts</h1>
-					<span class="hirefor"> Senior Designer</span>
-				</div>
-			</div>
-			<!-- box 3 -->
-			<div class="c3">
-				<img src="http://placehold.it/270x180" class="imgOpa teamimage" alt="">
-				<div class="teamdescription">
-					<h1>Mary C. Black</h1>
-					<span class="hirefor">Lead Designer</span>
-				</div>
-			</div>
-			<!-- box 4 -->
-			<div class="c3">
-				<img src="http://placehold.it/270x180" class="imgOpa teamimage" alt="">
-				<div class="teamdescription">
-					<h1>Bossy Joe</h1>
-					<span class="hirefor">Our Boss</span>
-				</div>
-			</div>
-			<!-- end box4 -->			
-		</div>
-		<!-- CLIENTS
-		================================================== -->
-		<div class="row space-top">
-			<div class="c12 space-top">
-				<h1 class="maintitle">
-				<span>Clients</span>
-				</h1>
-			</div>
-		</div>
-		<div class="row">
-			<div class="c12">
-				<div class="list_carousel">
-					<div class="carousel_nav">
-						<a class="prev" id="car_prev" href="#"><span>prev</span></a>
-						<a class="next" id="car_next" href="#"><span>next</span></a>
-					</div>
-					<div class="clearfix">
-					</div>
-					<ul id="recent-projects">
-						<!--box 1-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-						<!--box 2-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-						<!--box 3-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-						<!--box 4-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-						<!--box 5-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-						<!--box 6-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-						<!--box 7-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-						<!--box 8-->
-						<li>
-						<div class="featured-projects clientslogo">
-							<div class="featured-projects-image">
-								<a href="#"><img src="http://placehold.it/220x140" class="imgOpa" alt=""></a>
-							</div>
-						</div>
-						</li>
-					</ul>
-					<div class="clearfix">
-					</div>
-				</div>
-			</div>
-		</div>
+		
 </div><!-- end grid -->
 
 <!-- FOOTER
